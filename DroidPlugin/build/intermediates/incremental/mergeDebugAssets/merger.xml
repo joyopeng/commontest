@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/joyopeng/project/pluginApplication/DroidPlugin/assets"/><source path="/home/joyopeng/project/pluginApplication/DroidPlugin/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/joyopeng/project/pluginApplication/DroidPlugin/build-types/debug/assets"/></dataSet></merger>

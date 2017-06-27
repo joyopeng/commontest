@@ -1,0 +1,852 @@
+open /proc/kmsg failed: Permission denied
+--------- beginning of system
+06-26 15:50:24.105 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:24.105 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+--------- beginning of main
+06-26 15:50:24.345 W/zipro   (11443): Error opening archive /storage/emulated/0/baobaosdk/baobao_sdk/plugin/sdk_zhwnl/baobao_sdk_4104.apk: Invalid file
+06-26 15:50:24.355 D/asset   (11443): failed to open Zip archive '/storage/emulated/0/baobaosdk/baobao_sdk/plugin/sdk_zhwnl/baobao_sdk_4104.apk'
+06-26 15:50:24.355 D/        (11443): Zip: EOCD not found, /storage/emulated/0/now/temp-auto.apk is not zip
+06-26 15:50:24.355 W/zipro   (11443): Error opening archive /storage/emulated/0/now/temp-auto.apk: Invalid file
+06-26 15:50:24.355 D/asset   (11443): failed to open Zip archive '/storage/emulated/0/now/temp-auto.apk'
+06-26 15:50:24.355 D/        (11443): Zip: EOCD not found, /storage/emulated/0/now/temp.apk is not zip
+06-26 15:50:24.355 W/zipro   (11443): Error opening archive /storage/emulated/0/now/temp.apk: Invalid file
+06-26 15:50:24.355 D/asset   (11443): failed to open Zip archive '/storage/emulated/0/now/temp.apk'
+06-26 15:50:24.355 D/SearchService(11443): in SearchThread after run isFinished = true
+06-26 15:50:24.615 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:24.615 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:24.825 I/MSM-irqbalance(  616): Decided to move IRQ178 from CPU4 to CPU7
+06-26 15:50:25.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:25.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:25.645 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:26.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:26.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:27.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:27.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:27.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:27.375 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:28.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:28.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:28.375 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:28.455 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:28.655 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:28.935 D/WifiService( 1208): New client listening to asynchronous messages
+06-26 15:50:28.945 I/QQPimSecure( 8403): wup request: 1
+06-26 15:50:28.955 I/WupSessionHelperImpl( 8403): getUserInfo() product: 13
+06-26 15:50:28.955 I/WupSessionHelperImpl( 8403): getUserInfo() new guid: 03021316120421573000237593841227
+06-26 15:50:28.955 D/WupSessionHelperImpl( 8403):  runHttpSession() url:http://pmir.3g.qq.com
+06-26 15:50:28.965 D/HttpConnection( 8403):  couldNotConnect()
+06-26 15:50:28.965 D/HttpConnection( 8403):  couldNotConnect() diff: -1498463428968
+06-26 15:50:28.965 D/HttpConnection( 8403):  couldNotConnect() false
+06-26 15:50:28.965 D/WupSessionHelperImpl( 8403):  runHttpSession() couldNotConnect:false
+06-26 15:50:28.965 I/Chord   ( 8403): couldFetchCloud() mIsCloudReady: false
+06-26 15:50:29.005 I/HttpConnection( 8403): initConnection() openTimeMillis: 10
+06-26 15:50:29.005 D/HttpConnection( 8403):  couldNotConnect()
+06-26 15:50:29.005 D/HttpConnection( 8403):  couldNotConnect() diff: -1498463429015
+06-26 15:50:29.005 D/HttpConnection( 8403):  couldNotConnect() false
+06-26 15:50:29.005 D/sendRequest( 8403):  sendRequest() couldNotConnect:false
+06-26 15:50:29.025 I/HttpConnection( 8403): sendRequest() connectTimeMillis: 12
+06-26 15:50:29.035 D/HttpConnection( 8403): HttpUrlConn.getResponseCode : 200
+06-26 15:50:29.055 I/ThreadPool( 8403): shrink core pool size: 0
+06-26 15:50:29.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:29.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:29.375 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:29.725 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:30.345 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:30.345 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:30.375 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:31.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:31.385 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:31.385 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:31.385 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:31.675 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:32.295 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:32.305 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:32.385 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:32.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:32.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:33.465 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:33.465 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:34.505 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:34.515 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:34.705 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:34.825 I/MSM-irqbalance(  616): Decided to move IRQ240 from CPU4 to CPU7
+06-26 15:50:34.855 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:35.485 V/ApplicationNetworkController( 1208): do not set again, mobile=true, wifi=true for com.eg.android.AlipayGphone
+06-26 15:50:35.565 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:35.565 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:35.795 W/AlarmManager( 1208): none no open power log
+06-26 15:50:35.845 W/AlarmManager( 1208): none no open power log
+06-26 15:50:36.135 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -5 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:36.395 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:36.605 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:36.605 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:37.395 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:37.415 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -5 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:37.645 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:37.645 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:37.705 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:38.245 I/Atfwd_Sendcmd( 6987): AtCmdFwd service not ready - Exhausted retry attempts - :6
+06-26 15:50:38.245 I/Atfwd_Daemon( 6987): result : -1 	 ,Init step :2 	 ,qmiErrorCode: 0
+06-26 15:50:38.395 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:38.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:38.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:39.405 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:39.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:39.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:39.825 I/MSM-irqbalance(  616): Decided to move IRQ128 from CPU4 to CPU7
+06-26 15:50:40.015 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -5 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:40.015 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -5 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:40.725 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:40.745 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:40.755 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:41.785 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:41.785 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:42.415 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:42.535 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:42.825 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:42.825 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:43.415 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:43.735 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:43.815 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:43.865 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:43.865 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:44.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:44.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:45.085 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:45.735 D/ProfileUpload( 8403): uploadTask
+06-26 15:50:45.735 D/RawDBService( 8403): query|caller=4294967297|authority=QQSecureProvider|table=profile_fifo_upload_queue
+06-26 15:50:45.735 I/PiDBProvider( 8403): addCursorId: 1-
+06-26 15:50:45.755 W/ProfileUpload( 8403): uploadTask no more task
+06-26 15:50:45.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:45.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:46.755 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:46.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:46.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:47.005 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:47.655 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:47.665 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:48.015 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:48.015 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:48.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:49.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:49.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:49.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:49.775 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:49.825 I/MSM-irqbalance(  616): Decided to move IRQ166 from CPU7 to CPU5
+06-26 15:50:50.095 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:50.095 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:50.215 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 21 -96 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:50.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:51.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:51.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:51.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:51.415 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:51.495 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:51.915 E/dmapp   (  385): dmapp is still alive.
+06-26 15:50:52.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:52.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:52.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:52.425 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:52.775 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:52.785 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:53.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:53.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:53.255 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 1
+06-26 15:50:54.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:54.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:54.825 I/MSM-irqbalance(  616): Decided to move IRQ178 from CPU7 to CPU5
+06-26 15:50:55.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:55.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:55.335 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:55.335 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:55.805 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:56.345 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:56.345 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:57.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:57.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:57.425 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:50:57.895 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:58.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:58.435 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:58.435 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:58.825 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:50:59.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:50:59.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:50:59.475 E/awcn.DefaultHeartbeatImpl( 5326):  close session in background
+06-26 15:50:59.475 I/awcn.DefaultHeartbeatImpl( 5326):  heartbeat stop session:Session@[AWCN2_1|http2_0rtt_acs]
+06-26 15:50:59.475 E/awcn.TnetSpdySession( 5326): |[seq:AWCN2_1] force close! session:Session@[AWCN2_1|http2_0rtt_acs]
+06-26 15:50:59.475 E/awcn.Session( 5326): |[seq:AWCN2_1] notifyStatus status:DISCONNECTING
+06-26 15:50:59.475 E/awcn.TnetSpdySession( 5326): |[seq:AWCN2_1] spdySessionCloseCallback  errorCode::-2002
+06-26 15:50:59.475 E/awcn.Session( 5326): |[seq:AWCN2_1] notifyStatus status:DISCONNECTED
+06-26 15:50:59.475 D/awcn.SessionRequest( 5326): |[seq:AWCN2_1] Session:Session@[AWCN2_1|http2_0rtt_acs] EventType:DISCONNECTED Event:anet.channel.entity.DisconnectedEvent@2738df94
+06-26 15:50:59.475 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:59.475 W/ActivityManager( 1208): Unable to start service Intent { act=com.taobao.accs.intent.action.RECEIVE pkg=com.eg.android.AlipayGphone cmp=com.eg.android.AlipayGphone/com.taobao.accs.data.MsgDistributeService (has extras) } U=0: not found
+06-26 15:50:59.475 D/awcn.SessionRequest( 5326): |[seq:AWCN2_1] Connect Disconnect session:Session@[AWCN2_1|http2_0rtt_acs] host:https://acs.m.taobao.com appIsBg:true isHandleFinish:false
+06-26 15:50:59.475 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:50:59.825 I/MSM-irqbalance(  616): Decided to move IRQ65 from CPU7 to CPU5
+06-26 15:50:59.995 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:50:59.995 W/AlarmManager( 1208): none no open power log
+06-26 15:51:00.065 W/ResourceType( 7980): No package identifier when getting value for resource number 0x00000000
+06-26 15:51:00.065 W/PackageManager( 7980): Failure retrieving resources for cn.nubia.weather: Resource ID #0x0
+06-26 15:51:00.105 I/TrafficService(11443): current minute : 51
+06-26 15:51:00.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:00.435 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:00.465 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:00.515 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:00.515 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 547 BSSID d0:17:c2:d7:b0:c4 SSID 'iSmarTV5.0G' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 548 BSSID d0:17:c2:d7:b0:c0 SSID 'iSmarTV2.4G' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 549 BSSID 9c:21:6a:f9:f9:08 SSID 'ismartv_test' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 552 BSSID 74:e5:0b:3a:43:d7 SSID '360WiFi-XK' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 551 BSSID 64:09:80:41:4c:7d SSID 'Xiaomi_4C7C' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 550 BSSID 74:25:8a:5e:5a:80 SSID 'iSmarTV5G' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 557 BSSID 88:25:93:b6:38:f6 SSID 'LWY' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): wlan0: BSS: Remove id 553 BSSID 38:83:45:b4:65:28 SSID 'JesseMOffice' due to wpa_bss_flush_by_age
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.055 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 559 BSSID bc:46:99:93:e8:e0 SSID 'oncalljf' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 561 BSSID b6:46:99:93:e8:e0 SSID 'fangke' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 554 BSSID 64:09:80:41:4c:7e SSID 'Xiaomi_4C7C_5G' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 558 BSSID bc:46:99:cd:da:5f SSID 'TP-LINK_DA5F' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 556 BSSID ec:17:2f:b9:1e:e8 SSID 'Pro-Lambda-AP1' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 555 BSSID 3c:46:d8:25:7b:1c SSID 'TP-LINK_3G_xcj' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 560 BSSID 38:83:45:96:d3:66 SSID 'FunctionBay' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 562 BSSID 02:0e:5e:4d:1d:aa SSID 'ChinaNet-BeR1' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 566 BSSID d0:17:c2:d7:ac:38 SSID 'iSmarTV2.4G' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 563 BSSID 50:da:00:b4:ed:21 SSID 'UCCVR' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 565 BSSID bc:46:99:cd:da:61 SSID 'TP-LINK_5G_DA5F' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 568 BSSID d8:5d:4c:30:9b:6c SSID 'Pro-Lambda-AP2' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 567 BSSID d0:17:c2:d7:ac:3c SSID 'iSmarTV5.0G' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 569 BSSID b0:48:7a:72:61:e8 SSID 'zhuyou' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 570 BSSID 30:b4:9e:00:02:ec SSID 'UCCVR_Test01' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 571 BSSID d8:5d:4c:2b:2c:10 SSID 'wanghm' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 572 BSSID c4:ca:d9:0e:a3:92 SSID 'i-Shanghai' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): wlan0: BSS: Remove id 573 BSSID c4:ca:d9:0e:a3:91 SSID '@city' due to wpa_bss_flush_by_age
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_461-635\x00
+06-26 15:51:01.065 D/wpa_supplicant(31898): CTRL_IFACE monitor sent successfully to /data/misc/wifi/sockets/wpa_ctrl_1208-48\x00
+06-26 15:51:01.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:01.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:01.435 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:01.555 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:01.565 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:01.855 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:02.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:02.595 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:02.595 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:03.025 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:03.025 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:03.255 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 2
+06-26 15:51:03.635 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:03.635 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:04.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:04.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:04.825 I/MSM-irqbalance(  616): Decided to move IRQ215 from CPU7 to CPU5
+06-26 15:51:04.875 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:04.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:05.445 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:05.575 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:05.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:05.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:06.445 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:06.755 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:06.755 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:06.855 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:07.795 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:07.795 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:07.895 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:08.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:08.835 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:08.835 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:08.955 I/NubiaPush( 5827): start ping by push time dis 600000
+06-26 15:51:08.965 I/System.out( 5827): ÂºÄÂßãÂèëÈÄÅÊ∂àÊÅØÔºÅ
+06-26 15:51:09.295 I/NubiaPush( 5827): receive ping response
+06-26 15:51:09.315 W/ContextImpl( 5827): Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1762 android.content.ContextWrapper.startService:516 cn.nubia.neopush.a.e.a:762 cn.nubia.neopush.a.e.a:44 cn.nubia.neopush.a.e$2.a:457 
+06-26 15:51:09.315 D/ActivityManager( 1208): target_pkg = cn.nubia.neopush, target_process = cn.nubia.neopush
+06-26 15:51:09.315 D/ActivityManager( 1208): start service caller PID =5827, UID = 1000, callerPkgList = {cn.nubia.neopush=com.android.internal.app.ProcessStats$ProcessStateHolder@2db828ee}, service_name = ComponentInfo{cn.nubia.neopush/cn.nubia.neopush.service.NeoPushService}
+06-26 15:51:09.455 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:09.825 I/MSM-irqbalance(  616): Decided to move IRQ222 from CPU7 to CPU5
+06-26 15:51:09.875 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:09.875 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:10.455 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:10.695 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:10.695 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:10.905 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:10.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:10.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:11.465 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:11.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:11.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:12.985 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:12.985 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:13.255 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:13.265 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:13.905 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:14.035 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:14.035 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:14.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:14.535 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:14.825 I/MSM-irqbalance(  616): Decided to move IRQ57 from CPU7 to CPU5
+06-26 15:51:15.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:15.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:15.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:15.815 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:16.115 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:16.115 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:16.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:16.925 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:17.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:17.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:17.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:17.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:18.165 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:18.165 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:18.265 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 3
+06-26 15:51:18.375 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:18.375 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:18.475 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:19.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:19.195 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:19.825 I/MSM-irqbalance(  616): Decided to move IRQ177 from CPU7 to CPU5
+06-26 15:51:19.945 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:20.235 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:20.235 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:20.935 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:21.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:21.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:22.215 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:22.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:22.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:22.975 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:23.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:23.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:23.495 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:24.385 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:24.385 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:24.485 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:24.825 I/MSM-irqbalance(  616): Decided to move IRQ174 from CPU7 to CPU5
+06-26 15:51:25.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:25.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:25.485 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:25.995 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:26.055 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:26.065 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:26.455 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:26.455 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:27.495 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:27.505 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:27.505 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:28.545 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:28.545 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:28.615 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:29.015 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:29.495 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:29.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:29.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:29.895 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:30.505 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:30.625 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:30.625 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:31.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:31.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:31.655 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:31.655 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:32.035 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:32.505 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:32.695 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:32.695 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:33.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:33.735 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:33.735 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:33.745 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:33.745 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:34.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:34.525 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:34.775 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:34.775 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:35.055 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:35.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:35.515 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:35.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:35.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:36.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:36.295 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -6 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:36.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:36.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:37.265 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:37.525 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:37.575 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -6 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:37.885 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:37.885 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:38.075 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:38.265 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 4
+06-26 15:51:38.525 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:38.855 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -6 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:38.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:38.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:39.935 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:39.935 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:40.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:40.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:41.085 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:41.435 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:41.435 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:41.995 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:41.995 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:42.535 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:43.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:43.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:43.535 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:43.975 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:44.085 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:44.085 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:44.105 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:45.125 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:45.125 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:45.255 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:46.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:46.145 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:46.525 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:47.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:47.125 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:47.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:47.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:48.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:48.225 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:49.095 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:49.105 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:49.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:49.265 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:50.135 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:50.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:50.305 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:51.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:51.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:51.545 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:51.655 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:51.715 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:51:51.715 D/ActivityManager( 1208): target_pkg = com.UCMobile, target_process = com.UCMobile:push
+06-26 15:51:51.715 D/NubiaSelfStartUtil( 1208): not allow packageName==com.UCMobile from service
+06-26 15:51:51.715 D/ActivityManager( 1208): start service caller PID =-1, UID = 10177, callerPkgList = {}, service_name = ComponentInfo{com.UCMobile/com.uc.base.multiprocess.server.EventManagerService}
+06-26 15:51:51.715 D/ActivityManager( 1208): forbid starting ComponentInfo{com.UCMobile/com.uc.base.multiprocess.server.EventManagerService} intent Intent { act=action.interval.alarm.timer flg=0x4 cmp=com.UCMobile/com.uc.base.multiprocess.server.EventManagerService (has extras) }
+06-26 15:51:52.375 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:52.375 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:52.555 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:52.935 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:53.155 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:53.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:53.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:53.555 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:54.215 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:54.435 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:54.435 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:54.565 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:55.475 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:55.475 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:56.175 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:56.515 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:56.515 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:56.785 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:56.795 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:57.545 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:57.545 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:57.565 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:58.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:58.575 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:51:58.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:58.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:58.995 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:51:58.995 E/GpsXtraDownloader( 1208): No XTRA servers were specified in the GPS configuration
+06-26 15:51:59.195 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:51:59.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:51:59.335 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:51:59.615 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:59.615 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:51:59.995 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:51:59.995 W/AlarmManager( 1208): none no open power log
+06-26 15:52:00.005 W/ResourceType( 7980): No package identifier when getting value for resource number 0x00000000
+06-26 15:52:00.005 W/PackageManager( 7980): Failure retrieving resources for cn.nubia.weather: Resource ID #0x0
+06-26 15:52:00.085 I/TrafficService(11443): current minute : 52
+06-26 15:52:00.085 V/TrafficService(11443): traffic service run! Begin update traffic
+06-26 15:52:00.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=cn.nubia.browser traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.sankuai.meituan traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.nfyg.hsbb traffic=6634417
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=cmb.pb traffic=2744002
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.MobileTicket traffic=30580650
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.tencent.reading traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=cn.nubia.weather traffic=34116
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.tencent.mm traffic=442006
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.zhaopin.social traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=cn.etouch.ecalendar traffic=190260
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.alipay.security.mobile.authenticator traffic=7480
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.UCMobile traffic=35182991
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.tencent.mobileqq traffic=567678
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.gf.client traffic=125639
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.kugou.android traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.baidu.BaiduMap traffic=23020885
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.tencent.qqgame.qqhlupwvga traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.netease.mail traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.jingdong.app.mall traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.taobao.idlefish traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.job.android traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.wukongtv.wkremote.client traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.taobao.taobao traffic=30605
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.sohu.inputmethod.sogou.nubia traffic=38555
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.qihoo.srouter.n300 traffic=0
+06-26 15:52:00.405 D/TrafficDatabaseHelper(11443): name=com.eg.android.AlipayGphone traffic=4432206
+06-26 15:52:00.425 I/nubialog(11443): DispatchMessage in MainLooper, delay:334ms msg:{ when=-334ms callback=cn.nubia.security.traffic.service.d target=android.os.Handler }
+06-26 15:52:00.605 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:00.655 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:00.655 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:01.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:01.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:01.685 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:01.685 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:01.885 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:02.215 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:02.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:02.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:02.715 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:03.275 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 5
+06-26 15:52:03.575 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:03.755 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:03.765 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:04.455 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:04.465 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:04.585 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:04.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:04.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:04.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:05.215 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:05.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:05.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:06.865 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:06.865 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:07.025 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:07.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:07.905 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:08.235 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:08.295 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:08.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:08.945 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:09.555 W/AlarmManager( 1208): none no open power log
+06-26 15:52:09.565 W/AlarmManager( 1208): none no open power log
+06-26 15:52:09.575 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 23 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:09.575 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:52:09.585 W/AlarmManager( 1208): none no open power log
+06-26 15:52:09.585 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:09.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:09.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:11.015 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:11.015 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:11.255 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:11.595 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:12.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:12.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:12.145 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:12.145 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:13.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:13.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:13.595 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:14.095 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:14.095 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:14.265 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:14.605 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:14.695 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:15.135 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:15.135 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:15.975 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:16.175 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:16.175 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:17.015 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:52:17.125 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:17.215 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:17.215 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:17.245 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:17.285 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:17.605 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:18.245 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:18.245 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:19.295 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:19.295 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:19.615 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:19.815 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:19.815 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:19.825 I/MSM-irqbalance(  616): Decided to move IRQ129 from CPU5 to CPU7
+06-26 15:52:20.305 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:20.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:20.335 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:21.375 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:21.375 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:22.375 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:22.415 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:22.415 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:23.335 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:23.455 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:23.455 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:23.655 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:24.485 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:24.495 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:24.825 I/MSM-irqbalance(  616): Decided to move IRQ215 from CPU5 to CPU7
+06-26 15:52:24.955 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:25.535 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:25.535 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:26.355 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:26.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:26.585 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:27.505 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:27.505 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:27.625 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:27.625 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:28.275 I/Atfwd_Sendcmd( 6987): AtCmdFwd service not ready - Exhausted retry attempts - :6
+06-26 15:52:28.275 I/Atfwd_Daemon( 6987): result : -1 	 ,Init step :2 	 ,qmiErrorCode: 0
+06-26 15:52:28.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:28.675 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:29.355 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:29.625 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:29.725 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:29.725 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:29.825 I/MSM-irqbalance(  616): Decided to move IRQ222 from CPU5 to CPU7
+06-26 15:52:30.055 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:30.635 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:30.765 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:30.765 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:31.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:31.335 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:31.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:31.805 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:31.915 E/dmapp   (  385): dmapp is still alive.
+06-26 15:52:32.385 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:32.615 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:32.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:32.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:33.885 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:33.885 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:34.825 I/MSM-irqbalance(  616): Decided to move IRQ57 from CPU5 to CPU7
+06-26 15:52:34.925 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:34.925 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:35.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:35.175 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:35.395 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:35.965 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:35.965 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:37.005 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:37.005 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:37.735 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:38.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:38.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:38.405 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:39.015 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:39.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:39.055 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:39.825 I/MSM-irqbalance(  616): Decided to move IRQ174 from CPU5 to CPU7
+06-26 15:52:40.085 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:40.085 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:40.295 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:41.125 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:41.125 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:41.415 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:42.155 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:42.155 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:42.865 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:42.865 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:43.175 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:43.185 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:43.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:44.205 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:44.205 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:44.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:44.445 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:44.825 I/MSM-irqbalance(  616): Decided to move IRQ177 from CPU5 to CPU6
+06-26 15:52:45.245 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:45.245 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:45.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:45.415 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:46.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:46.275 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:46.275 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:46.695 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:47.175 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:47.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:47.315 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:47.315 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:47.445 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:47.965 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:48.275 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 1
+06-26 15:52:48.355 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:48.355 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:49.105 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:52:49.115 I/unknown (20596): [onReceive] com.feinno.teatalk.FIN_ALARM 
+06-26 15:52:49.115 I/unknown (20596): [initialize_core_service] cancel repeat service init 
+06-26 15:52:49.115 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:49.125 D/FinAlarmReceiver(20596): ~~~FinAlarmReceiver prepareKeeplive main not exists  mIsForeground=2
+06-26 15:52:49.125 D/FinAlarmReceiver(20596): ~~~FinAlarmReceiver prepareKeeplive mIsForeground=2
+06-26 15:52:49.125 I/TESTXU  (20596): send:7/4
+06-26 15:52:49.125 I/unknown (20596): [createTransaction] 391712605  This message is: CinRequest
+06-26 15:52:49.125 I/unknown (20596): Method : Logon
+06-26 15:52:49.125 I/unknown (20596): Event : (Long)4|(HexString)04|(String)
+06-26 15:52:49.125 I/unknown (20596): Status : (Long)2|(HexString)02|(String)
+06-26 15:52:49.125 I/unknown (20596): Body : (Long)16855303|(HexString)0731010100|(String)1¿Ä
+06-26 15:52:49.125 I/unknown (20596):  
+06-26 15:52:49.125 I/CinStack(20596): CreateTransaction
+06-26 15:52:49.125 I/CinStack(20596): Method: [7]; key:[---15-]
+06-26 15:52:49.125 I/CinStack(20596): Sending Request
+06-26 15:52:49.125 I/CinStack(20596): This message is: CinRequest
+06-26 15:52:49.125 I/CinStack(20596): Method : Logon
+06-26 15:52:49.125 I/CinStack(20596): Event : (Long)4|(HexString)04|(String)
+06-26 15:52:49.125 I/CinStack(20596): Status : (Long)2|(HexString)02|(String)
+06-26 15:52:49.125 I/CinStack(20596): Csequence : (Long)15|(HexString)0F|(String)
+06-26 15:52:49.125 I/CinStack(20596): Body : (Long)16855303|(HexString)0731010100|(String)1¿Ä
+06-26 15:52:49.125 I/unknown (20596): [send] 409268600 
+06-26 15:52:49.135 I/unknown (20596): [sendTo] 409268600 
+06-26 15:52:49.135 I/unknown (20596): [write] 409268600 
+06-26 15:52:49.155 I/unknown (20596): [run] CinSocket recv 409268600 9 
+06-26 15:52:49.155 I/unknown (20596): [responseReceived] 102359181 
+06-26 15:52:49.165 I/unknown (20596): [addTask] 710048779 
+06-26 15:52:49.165 I/unknown (20596): [run] 710048779 
+06-26 15:52:49.165 I/unknown (20596): [receiveResponse] 130681645 
+06-26 15:52:49.165 I/CinStack(20596): ResponseReceived. TransactionKey:
+06-26 15:52:49.165 I/CinStack(20596): ---15-
+06-26 15:52:49.165 I/CinStack(20596): ResponseReceived. TransactionKey:
+06-26 15:52:49.165 I/CinStack(20596): This message is: CinResponse
+06-26 15:52:49.165 I/CinStack(20596): ResponseCode : OK
+06-26 15:52:49.165 I/CinStack(20596): Csequence : (Long)15|(HexString)0F|(String)
+06-26 15:52:49.165 I/CinStack(20596): Expire : (Long)300|(HexString)2C01|(String),
+06-26 15:52:49.165 I/unknown (20596): [onKeepAliveOk] expire:300 
+06-26 15:52:49.165 W/AlarmManager( 1208): none no open power log
+06-26 15:52:49.165 I/unknown (20596): [setNextFinAlarm] FinAlarmReceiver --- setNextFinAlarm expire = 270000 
+06-26 15:52:49.165 I/TESTXU  (20596): onResponseReceived Time:4 Method/Event:7/4
+06-26 15:52:49.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:49.395 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:49.675 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201be mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:50.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:50.425 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:50.475 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:50.545 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:50.545 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:50.665 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:52:51.465 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:51.465 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:52.495 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:52.495 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:53.095 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:53.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:53.475 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:53.535 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:53.535 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:54.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:54.365 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -91 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:54.575 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:54.575 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:54.825 I/MSM-irqbalance(  616): Decided to move IRQ166 from CPU5 to CPU6
+06-26 15:52:55.275 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:55.615 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:55.615 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:55.655 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -86 -7 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:56.285 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:56.485 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:56.645 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:56.645 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:57.285 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:52:57.695 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:57.695 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:58.225 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -86 -7 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:58.225 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 26 -86 -7 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:52:58.285 W/Atfwd_Sendcmd( 6987): AtCmdFwd service not published, waiting... retryCnt : 2
+06-26 15:52:58.735 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:58.735 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:59.495 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:52:59.765 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:59.765 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:52:59.825 I/MSM-irqbalance(  616): Decided to move IRQ178 from CPU5 to CPU6
+06-26 15:52:59.995 D/PowerManagerService( 1208): to showLogHandlerThread quit!
+06-26 15:52:59.995 W/AlarmManager( 1208): none no open power log
+06-26 15:53:00.025 W/ResourceType( 7980): No package identifier when getting value for resource number 0x00000000
+06-26 15:53:00.025 W/PackageManager( 7980): Failure retrieving resources for cn.nubia.weather: Resource ID #0x0
+06-26 15:53:00.085 I/TrafficService(11443): current minute : 53
+06-26 15:53:00.775 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -86 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:00.795 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:00.795 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:01.065 W/ActivityManager( 1208): getRunningAppProcesses: caller 10114 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:01.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:01.845 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:02.055 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -86 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:02.515 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:53:02.685 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x0 mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:53:02.855 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:02.855 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:03.325 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -86 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:03.685 D/StatusBar.MSimNetworkController( 7276): refreshViews connected={ wifi } level=4 mMSimcombinedSignalIconId=0x7f0201c4/com.android.systemui:drawable/stat_sys_wifi_signal_png_4_fully mMSimcombinedActivityIconId=0x7f0201bd mAirplaneMode=false mMSimDataActivity=0 mMSimPhoneSignalIconId=0x7f0201b1/com.android.systemui:drawable/stat_sys_signal_4 mMSimDataDirectionIconId=0x0 mMSimDataSignalIconId=0x7f0201b1 mMSimDataTypeIconId=0x0/(null) mNoMSimIconId=0x0/(null) mMSimMobileActivityIconId=0x0/(null) mWifiIconId=0x7f0201c4 mBluetoothTetherIconId=0x108069f
+06-26 15:53:03.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:03.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:04.825 I/MSM-irqbalance(  616): Decided to move IRQ129 from CPU7 to CPU6
+06-26 15:53:04.895 W/ActivityManager( 1208): getRunningAppProcesses: caller 10092 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:04.935 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:04.935 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:05.525 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:53:05.895 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 25 -86 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:05.895 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -88 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:05.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:05.975 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:07.005 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:07.005 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:08.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:08.045 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:08.285 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:53:08.455 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -88 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:08.535 D/wpa_supplicant(31898): wlan0: Control interface command 'SIGNAL_POLL'
+06-26 15:53:09.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:09.075 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:09.285 I/ServiceManager( 6987): Waiting for service AtCmdFwd...
+06-26 15:53:09.735 D/StatusBar.MSimNetworkController( 7276): onSignalStrengthsChanged received on phoneId :0 subid: 2signalStrength=SignalStrength: 99 0 -120 -160 -120 -1 -1 24 -88 -4 -184 2147483647 2147483647 gsm|lte level=4
+06-26 15:53:10.105 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:10.105 W/ActivityManager( 1208): getRunningAppProcesses: caller 10095 does not hold REAL_GET_TASKS; limiting output
+06-26 15:53:10.285 I/ServiceManager( 6987): Waiting for service AtCmdFwd...

@@ -1,0 +1,1 @@
+include ':app', ':ismartv_db', ':ismartv_downloader', ':DroidPlugin'
